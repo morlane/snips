@@ -11,7 +11,7 @@ alias cp='cp -i'
 alias vi='vim'
  
  
-if test $0 == "-bash" 
+if test $0 == "bash" 
 then 
   
     function job_color()   
